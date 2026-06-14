@@ -19,6 +19,8 @@
     "@emdash-cms/cloudflare": "^0.18.0",
     "@emdash-cms/plugin-forms": "^0.2.3",
     "@emdash-cms/plugin-webhook-notifier": "^0.2.0",
+    "@jdevalk/astro-seo-graph": "^2.0.0",
+    "@jdevalk/seo-graph-core": "^0.6.2",
     "astro": "^6.3.0",
     "emdash": "^0.18.0",
     "react": "19.2.4",
